@@ -45,10 +45,8 @@ sudo python __main__.py
 * send on pip
 * more & more
 
-## Author
 
 
-[Rousseau Alexandre][madeindjs]
 
 ## License
 
